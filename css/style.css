@@ -1,0 +1,51 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
+#mother{
+    width: 100%;
+    font-size: 20px;
+
+}
+main{
+    float:right;
+    border:1px solid grey;
+    padding: 5px;
+}
+input{
+    padding: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+aside{
+    float:left;
+    text-align: center;
+    width: 300px;
+    border: 1px soild black;
+    padding: 20px;
+    font-size: 20px;
+    background-color: silver;
+    color: white;
+}
+#tbl{
+    width: 890px;
+    font-size: 20px;
+}
+#tbl th{
+    background-color: silver;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    
+}
+aside button{
+    width: 190px;
+    padding: 8px;
+    margin-top: 7px;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
